@@ -29,7 +29,7 @@ def suPassword(chall):
             challpass[i]=0x3E
         else:
             challpass[i]=temp0
-    print 'PASSWORD!: ',challpass
+    print '920U4U2Y!: ',challpass
         
 
 if __name__=='__main__':
